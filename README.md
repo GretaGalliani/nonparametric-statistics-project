@@ -1,5 +1,5 @@
 # Association of radiomic features of Cholangiocarcinoma with pathology data and identification of new prognostic biomarkers
-This project was developed for the Nonparmetric Statistics course held at Politecnico di Milano (A.Y. 2021/2022)
+This project was developed for the Nonparametric Statistics course held at Politecnico di Milano (A.Y. 2021/2022)
 
 
 Collaborators:
